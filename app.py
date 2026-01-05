@@ -5,7 +5,7 @@ import io
 import uuid
 import time
 
-st.title("Aplikasi Pengolahan THC Link-2")
+st.title("Aplikasi Pengolahan THC Link-8")
 
 st.subheader("File yang dibutuhkan:")
 st.write("1. THC.csv")
